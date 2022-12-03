@@ -47,3 +47,8 @@ I am a Junior programmer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Denis-Igorevich-Frolov&theme=holi-theme&hide_border=&border_radius=20)](https://git.io/streak-stats)
