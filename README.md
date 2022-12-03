@@ -23,6 +23,8 @@ I am a Junior programmer from Russia.
 
 - :mag_right: I exploring technical content writing.
 
+- :paintbrush: I am proficient in Photoshop and have a graphics tablet.
+
 - :wrench: I do things in Qt and Unreal Engine, worked with libGDX in college.
 
 - :mailbox: How to reach me: denisigorevichfrolov@gmail.com, frolov_denis@ro.ru or <a href="https://vk.com/id140156884">
