@@ -25,7 +25,7 @@ I am a Junior programmer from Russia.
 
 - :paintbrush: I am proficient in Photoshop and have a graphics tablet.
 
-- :wrench: I do things in Qt and Unreal Engine, worked with libGDX in college.
+- :wrench: I do things in Qt and Unreal Engine, worked in libGDX in college.
 
 - :mailbox: How to reach me: denisigorevichfrolov@gmail.com, frolov_denis@ro.ru or <a href="https://vk.com/id140156884">
       <img src="https://krasnoyarsk.japancarts.ru/views/japancarts/images/vkcom.svg" alt="VK Badge" width="20"/>
