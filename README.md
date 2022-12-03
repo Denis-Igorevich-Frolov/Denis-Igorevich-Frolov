@@ -15,3 +15,13 @@
     <img src="https://komarev.com/ghpvc/?username=Denis-Igorevich-Frolov&style=flat-square&color=blue" alt=""/>
   </div>
 </h1>
+
+### About Me :
+I am a Junior programmer from Russia.
+
+- :mailbox:How to reach me: denisigorevichfrolov@gmail.com, frolov_denis@ro.ru or <a href="https://vk.com/id140156884">
+      <img src="https://krasnoyarsk.japancarts.ru/views/japancarts/images/vkcom.svg" alt="VK Badge" width="20"/>
+    </a>
+    <a href="https://t.me/Denis_Frolov333">
+      <img src="https://mysekret.ru/wp-content/uploads/2021/11/telegram_5.x_version_2019_logo1.png" alt="Telegram Badge" width="20"/>
+    </a>
