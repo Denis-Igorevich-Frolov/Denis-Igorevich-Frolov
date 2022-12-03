@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://heroes3towns.com/towns/necropolis/class_2.gif" width="100"/>
+  <img src="https://vk.com/s/v1/doc/uyRUAoN5Gh97h4DlSnW5Zr40hfBzsyTYpZyHZYRVeCUXS482q2Y" width="100"/>
 </div>
