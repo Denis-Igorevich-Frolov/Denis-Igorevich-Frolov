@@ -17,7 +17,7 @@
 </h1>
 
 ### About Me :
-I am a Junior programmer from Russia.
+I am a 22 year old Junior programmer from Russia.
 
 - :candle: I have an education as a Programmer Engineer, I can work both on the backend and on the frontend, including design.
 
