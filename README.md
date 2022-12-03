@@ -6,12 +6,8 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/id140156884">
+    <img src="https://krasnoyarsk.japancarts.ru/views/japancarts/images/vkcom.svg" alt="VK Badge" width="20"/>
   </a>
-</div>
-<div id="profile-views" align="center">
-  <a href="your-linkedin-URL">
-      <img src="https://komarev.com/ghpvc/?username=Denis-Igorevich-Frolov&style=flat-square&color=blue" alt=""/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Denis-Igorevich-Frolov&style=flat-square&color=blue" alt=""/>
 </div>
