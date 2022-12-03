@@ -4,13 +4,14 @@
     <img src="https://psv4.userapi.com/c236331/u140156884/docs/d60/3e9e99ee70ef/resurrection-of-dead-code.gif?extra=kgcs62YYpMp7rKquv7m1bh3HssjtrexIijcMyngmD2iB5sHfuwsLA99eA_D1B4u0nI_Gh5wrBylApZtSEnBmGOMcEne_UHepJxTumg8n0q8KCrR7mkTqegLVByOeTvHpvShgtYTO1Y8VqRtbnBCZZ53shg" width="300"/>
   </div>
 </div>
-<br>
-<div id="badges" align="center">
-  <a href="https://vk.com/id140156884">
-    <img src="https://krasnoyarsk.japancarts.ru/views/japancarts/images/vkcom.svg" alt="VK Badge" width="20"/>
-  </a>
-  <a href="https://t.me/Denis_Frolov333">
-    <img src="https://mysekret.ru/wp-content/uploads/2021/11/telegram_5.x_version_2019_logo1.png" alt="Telegram Badge" width="20"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Denis-Igorevich-Frolov&style=flat-square&color=blue" alt=""/>
-</div>
+<h1>
+  <div id="badges" align="center">
+    <a href="https://vk.com/id140156884">
+      <img src="https://krasnoyarsk.japancarts.ru/views/japancarts/images/vkcom.svg" alt="VK Badge" width="20"/>
+    </a>
+    <a href="https://t.me/Denis_Frolov333">
+      <img src="https://mysekret.ru/wp-content/uploads/2021/11/telegram_5.x_version_2019_logo1.png" alt="Telegram Badge" width="20"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Denis-Igorevich-Frolov&style=flat-square&color=blue" alt=""/>
+  </div>
+</h1>
