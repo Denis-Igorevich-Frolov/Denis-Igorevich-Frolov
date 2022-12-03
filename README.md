@@ -19,7 +19,13 @@
 ### About Me :
 I am a Junior programmer from Russia.
 
-- :mailbox:How to reach me: denisigorevichfrolov@gmail.com, frolov_denis@ro.ru or <a href="https://vk.com/id140156884">
+- :candle: I have an education as a Programmer Engineer, I can work both on the backend and on the frontend, including design.
+
+- :mag_right: I exploring technical content writing.
+
+- :hammer_and_wrench: I do things in Qt and Unreal Engine, worked with libGDX in college.
+
+- :mailbox: How to reach me: denisigorevichfrolov@gmail.com, frolov_denis@ro.ru or <a href="https://vk.com/id140156884">
       <img src="https://krasnoyarsk.japancarts.ru/views/japancarts/images/vkcom.svg" alt="VK Badge" width="20"/>
     </a>
     <a href="https://t.me/Denis_Frolov333">
