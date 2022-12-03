@@ -52,3 +52,5 @@ I am a Junior programmer from Russia.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Denis-Igorevich-Frolov&theme=holi-theme&hide_border=&border_radius=20)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Igorevich-Frolov&layout=compact&theme=tokyonight&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
