@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://psv4.userapi.com/c237231/u140156884/docs/d40/bd283aa938e0/nekromant-za-kompom.gif?extra=HDSru856IQknHPRl0xOXqyaCZDPp1uZmPCcPOetWKcMKpfBhhAqUSVjEcj_Cl1MGkf_f3f6at3FDnT1H7PzyTr8-r0SHlG3w1Qv0WfsjlWktRQy_mZeA5RvF2x52mfaOOM6lc1_g57j2aMzhj3UZumdeSA" width="200"/>
+  <img src="https://psv4.userapi.com/c236331/u140156884/docs/d5/5547d73656f2/nekromant-za-kompom.gif?extra=m0XfeLVzpRJya1r1XHTlE3PLCENWaB532PxToz7Vd_Gjc3N6Lhlt9QNOYPQXhXvwfaobBJHXNcBJlSKoKy1XPH5MadrrR3miStIgBoh7U9Sl2ZjRaIf8X0tf4GzOVRxa89cWDNtgeAYRhZ7KU2gtSaMZRQ" width="200"/>
   <div align="center">
-    <img src="https://psv4.userapi.com/c236331/u140156884/docs/d60/3e9e99ee70ef/resurrection-of-dead-code.gif?extra=kgcs62YYpMp7rKquv7m1bh3HssjtrexIijcMyngmD2iB5sHfuwsLA99eA_D1B4u0nI_Gh5wrBylApZtSEnBmGOMcEne_UHepJxTumg8n0q8KCrR7mkTqegLVByOeTvHpvShgtYTO1Y8VqRtbnBCZZ53shg" width="300"/>
+    <img src="https://psv4.userapi.com/c237031/u140156884/docs/d22/165937ee47a9/resurrection-of-dead-code.gif?extra=mqfiI4khsxB2XFOdsdgBJPfOJsrJ5ocg2mmcoUp8mqaVlOw4olSL1KTLf7XvDqCiwGPkFPzAW7NEqsmRBLPmzSMG27kXoOswpY-0t2vTxrur6igpp-3tOo02U67nU2w24ymrkylQ4ZCTzimjH_Rr9umzow" width="300"/>
   </div>
 </div>
 <h1>
