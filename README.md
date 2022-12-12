@@ -36,6 +36,11 @@ I am a 22 year old Junior programmer from Russia.
     
 ---
 
+### :bangbang: My projects to pay attention to:
+First, only, best: https://github.com/Denis-Igorevich-Frolov/Dungeoner-on-QT
+
+---
+
 ### :hammer_and_wrench: Languages, Programs and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
