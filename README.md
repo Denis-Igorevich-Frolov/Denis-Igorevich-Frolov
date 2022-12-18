@@ -59,6 +59,6 @@ First, only, best: https://github.com/Denis-Igorevich-Frolov/Dungeoner-on-QT
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Denis-Igorevich-Frolov&theme=holi-theme&hide_border=&border_radius=20)](https://git.io/streak-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Igorevich-Frolov&show_icons=true&border_radius=20&bg_color=030314&border_color=85A4C0&title_color=5EAAED&text_color=D5E6FE&card_width=495&ring_color=D5E6FE&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Igorevich-Frolov&show_icons=true&border_radius=20&bg_color=030314&include_all_commits=true&border_color=85A4C0&title_color=5EAAED&text_color=D5E6FE&card_width=495&ring_color=D5E6FE&hide_title=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Igorevich-Frolov&layout=compact&border_radius=20&bg_color=030314&border_color=85A4C0&title_color=5EAAED&text_color=D5E6FE&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
