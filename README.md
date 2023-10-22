@@ -10,7 +10,7 @@
       <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" alt="VK Badge" width="20"/>
     </a>
     <a href="https://t.me/Denis_Frolov333">
-      <img src="https://mysekret.ru/wp-content/uploads/2021/11/telegram_5.x_version_2019_logo1.png" alt="Telegram Badge" width="20"/>
+      <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Badge" width="20"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Denis-Igorevich-Frolov&style=flat-square&color=blue" alt=""/>
   </div>
@@ -31,7 +31,7 @@ I am a 22 year old Junior programmer from Russia.
       <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" alt="VK Badge" width="20"/>
     </a>
     <a href="https://t.me/Denis_Frolov333">
-      <img src="https://mysekret.ru/wp-content/uploads/2021/11/telegram_5.x_version_2019_logo1.png" alt="Telegram Badge" width="20"/>
+      <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Badge" width="20"/>
     </a>
     
 ---
