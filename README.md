@@ -33,11 +33,6 @@ I am a 23 year old Junior programmer from Russia.
     <a href="https://t.me/Denis_Frolov333">
       <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Badge" width="20"/>
     </a>
-    
----
-
-### :bangbang: My projects to pay attention to:
-First, only, best: https://github.com/Denis-Igorevich-Frolov/Dungeoner-on-QT
 
 ---
 
