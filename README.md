@@ -27,7 +27,7 @@ I am a 23 year old Junior programmer from Russia.
 
 - :wrench: I do things in Qt and Unreal Engine, worked in libGDX in college.
 
-- :mailbox: How to reach me: denisigorevichfrolov@gmail.com, frolov_denis@ro.ru or <a href="https://vk.com/id140156884">
+- :mailbox: How to reach me: denisigorevichfrolov@gmail.com or <a href="https://vk.com/id140156884">
       <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" alt="VK Badge" width="20"/>
     </a>
     <a href="https://t.me/Denis_Frolov333">
