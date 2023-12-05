@@ -36,7 +36,7 @@ I am a 23 year old Junior programmer from Russia.
 
 ---
 
-### :hammer_and_wrench: Languages, Programs and Tools :
+### Languages, Programs and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@ I am a 23 year old Junior programmer from Russia.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Denis-Igorevich-Frolov&theme=holi-theme&hide_border=&border_radius=20)](https://git.io/streak-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Denis-Igorevich-Frolov&show_icons=true&border_radius=20&bg_color=030314&border_color=85A4C0&title_color=5EAAED&text_color=D5E6FE&card_width=495&ring_color=D5E6FE&hide_title=true&include_all_commits=true)
