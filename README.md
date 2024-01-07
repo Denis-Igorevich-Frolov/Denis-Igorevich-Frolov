@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <img src="https://s9.gifyu.com/images/NEKROMANT-ZA-KOMPOM.gif" width="200"/>
-  <div align="center">
-    <img src="https://s9.gifyu.com/images/resurrection-of-dead-code.gif" width="350"/>
-  </div>
+  <img src="https://s13.gifyu.com/images/S02gn.gif" width="200"/>
 </div>
 <h1>
   <div id="badges" align="center">
