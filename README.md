@@ -4,9 +4,9 @@
     <img src="https://s9.gifyu.com/images/SFejB.gif" width="350"/>
   </div>
 </div>
-<h2>
+<h3>
   <div id="badges" align="center">
-    <a href="https://denisigorevichfrolov@gmail.com">
+    <a href="mailto:denisigorevichfrolov@gmail.com">
       :mailbox:
     </a>
     <a href="https://vk.com/id140156884">
