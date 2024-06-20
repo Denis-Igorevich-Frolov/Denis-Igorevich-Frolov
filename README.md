@@ -6,7 +6,7 @@
 </div>
 <h2>
   <div id="badges" align="center">
-    <a href="denisigorevichfrolov@gmail.com">
+    <a href="https://denisigorevichfrolov@gmail.com">
       :mailbox:
     </a>
     <a href="https://vk.com/id140156884">
