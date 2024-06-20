@@ -4,8 +4,11 @@
     <img src="https://s9.gifyu.com/images/SFejB.gif" width="350"/>
   </div>
 </div>
-<h1>
+<h2>
   <div id="badges" align="center">
+    <a href="denisigorevichfrolov@gmail.com">
+      :mailbox:
+    </a>
     <a href="https://vk.com/id140156884">
       <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" alt="VK Badge" width="20"/>
     </a>
@@ -16,27 +19,7 @@
   </div>
 </h1>
 
-### About Me :
-I am a 23 year old Junior programmer from Russia.
-
-- :candle: I have an education as a Programmer Engineer, I can work both on the backend and on the frontend, including design.
-
-- :mag_right: I exploring technical content writing.
-
-- :paintbrush: I am proficient in Photoshop and have a graphics tablet.
-
-- :wrench: I do things in Qt and Unreal Engine, worked in libGDX in college.
-
-- :mailbox: How to reach me: denisigorevichfrolov@gmail.com or <a href="https://vk.com/id140156884">
-      <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" alt="VK Badge" width="20"/>
-    </a>
-    <a href="https://t.me/Denis_Frolov333">
-      <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Badge" width="20"/>
-    </a>
-
----
-
-### Languages, Programs and Tools :
+### Languages, Programs & Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
